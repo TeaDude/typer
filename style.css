@@ -1,0 +1,58 @@
+.cursor {
+    background-color: aqua;
+    color: black;
+}
+
+.done {
+    color: lime;
+}
+
+html {
+    color: #FFD523;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #2C2E43;
+}
+
+.container {
+    width: 90%;
+    background-color: #595260;
+    height: 75%;
+    vertical-align: middle;
+    border-radius: 25px;
+}
+#typingDiv {
+    font-size: 50px;
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 1000px;
+}
+
+#start-game {
+    color: #FFD523;
+    background-color: #595260;
+    border: none;
+    height: 50px;
+    width: 200px;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    transition: 0.5s;
+}
+#start-game:hover {
+    cursor: pointer;
+    background-color: #2C2E43;
+    border: solid #FFD523 1px;
+}
+.hidden {
+    display: none;
+  }
+
+#stats {
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
