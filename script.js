@@ -3,7 +3,6 @@ const statsDiv = document.getElementById("stats");
 const startGameBtn = document.getElementById("start-game");
 
 const pharagraphs = [
-  `my name is jisha`,
   `The oldest classical Greek and Latin writing had little or no space between words and could be written in alternating directions.`,
   `The alarm went off and Jake rose awake. Rising early had become a daily ritual, one that he could not fully explain.`,
   `A long black shadow slid across the pavement near their feet and the five Venusians, very much startled, looked overhead.`,
